@@ -4,7 +4,7 @@ I am a 3rd-year Computer Engineering student at High Tech School, currently base
 
 Technical Skills:
 - Frontend: HTML5, CSS3, JavaScript, React, React Native, Tailwind CSS   
-- Backend: PHP, MySQL, C#   
+- Backend: Laravel (PHP), MySQL, C# (.NET) 
 - Design & Animation: GSAP, Three.js, Figma, Affinity Designer
 - Tools: Git, Visual Studio, Android Studio, Microsoft Office Suite  
 
